@@ -15,6 +15,6 @@ Excursion is a landing page created with HTML and CSS, showcasing:
 - Download links (coming soon) for iPhone and Android.
 - A simple footer with copyright.
 
-The goal is to create an enticing marketing tool that attracts potential users to the app.
+The goal is to create an appealing marketing tool that attracts potential users to the app.
 
 
